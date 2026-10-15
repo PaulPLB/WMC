@@ -1,0 +1,31 @@
+
+        body {
+            background-color: #26ff00;
+            font-family: comic sans ms;
+            color: #001eff;
+        }        
+
+        .container {
+            margin: 50px 0px;
+            display: flex;
+            justify-content: center;
+        }
+
+        img {
+
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px #000000;
+        }
+
+        ul {
+            list-style-type: none;
+        }
+        
+        li {
+            margin-right: 10px;
+            margin-bottom: 20px;
+        }
+
+        .container2 {
+            margin: 0px 50px;  
+        }
